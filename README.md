@@ -1,6 +1,6 @@
 # dEBV_Garrick
-Deregression of EBVs following Garrick et al. 2009
-Part of the script were sourced from Badke et al. 2014
+Deregression of EBVs following Garrick et al. 2009 \n
+Part of the script were sourced from Badke et al. 2014 \n
 
 @----------------------------------------------------------------------------------------------------------------------@
 The deregression scripts requires the following parameters and information to run sucessfully
