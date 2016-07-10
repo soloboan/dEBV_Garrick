@@ -1,6 +1,6 @@
 ### dEBV_Garrick
-Deregression of EBVs following Garrick et al. 2009  
-Part of the script were sourced from Badke et al. 2014  
+Deregression of EBVs following [Garrick et al. (2009)](http://gsejournal.biomedcentral.com/articles/10.1186/1297-9686-41-55)  
+Part of the script were sourced from [Badke et al. (2014)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059235/)
 
 The deregression R-scripts requires the following parameters and information to run sucessfully  
  1. trait=""      +++++ The file containing the EBVs, columns = (ID, EBV, reliability)  
