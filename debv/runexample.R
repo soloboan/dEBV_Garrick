@@ -15,7 +15,7 @@
 
 source("dEBV.R")
 debv <-dEBV(trait="Pheno_trait.txt",Pedigree="Pedigree_info.txt",genoIDs="IDs_genotyped.txt",
-            dataformat="DIR",h2=0.30,p.varSNP=0.50,outname="GyrdEBV")
+            dataformat="DIR",h2=0.30,p.varSNP=0.50,outname="dereg_example")
 
 
 
